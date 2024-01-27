@@ -15,8 +15,7 @@ int main()
 	//	printf("%d\n",y);
 		x=x/10;
 	//	printf("%d\n",x);
-		printf("The reverse of the entered number is %d\n",y);
 	//	x = x+1;
 	}
-	printf("Error:Outside of loop");
+	printf("The reverse of the entered number is %d\n",y);
 }

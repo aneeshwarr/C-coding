@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 //switch case program with infinite no. of execution using while loop
+void display(int x,int y);
+
 int main()
 {
 	int choice,x,y;
